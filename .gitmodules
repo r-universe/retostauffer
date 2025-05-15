@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/retostauffer/retostauffer.r-universe.dev
 	branch = HEAD
+[submodule "annex"]
+	path = annex
+	url = https://github.com/IEA-EBC-Annex86/annex
+[submodule "foehnix"]
+	path = foehnix
+	url = https://github.com/retostauffer/Rfoehnix
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
