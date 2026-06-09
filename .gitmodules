@@ -8,6 +8,9 @@
 [submodule "foehnix"]
 	path = foehnix
 	url = https://github.com/retostauffer/Rfoehnix
+[submodule "forgescraper"]
+	path = forgescraper
+	url = http://codeberg.org/retostauffer/forgescraper
 [submodule "gsdata"]
 	path = gsdata
 	url = https://github.com/retostauffer/gsdata
