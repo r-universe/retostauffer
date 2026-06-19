@@ -7,7 +7,7 @@
 	url = https://github.com/IEA-EBC-Annex86/annex
 [submodule "foehnix"]
 	path = foehnix
-	url = https://github.com/retostauffer/Rfoehnix
+	url = https://codeberg.org/retostauffer/foehnix
 [submodule "forgescraper"]
 	path = forgescraper
 	url = http://codeberg.org/retostauffer/forgescraper
