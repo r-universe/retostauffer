@@ -13,7 +13,7 @@
 	url = http://codeberg.org/retostauffer/forgescraper
 [submodule "gsdata"]
 	path = gsdata
-	url = https://github.com/retostauffer/gsdata
+	url = https://codeberg.org/retostauffer/gsdata
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
