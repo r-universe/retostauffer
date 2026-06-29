@@ -14,6 +14,9 @@
 [submodule "gsdata"]
 	path = gsdata
 	url = https://codeberg.org/retostauffer/gsdata
+[submodule "swissgeo.core"]
+	path = swissgeo.core
+	url = http://codeberg.org/retostauffer/swissgeo.core
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
