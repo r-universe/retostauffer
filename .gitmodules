@@ -14,6 +14,9 @@
 [submodule "gsdata"]
 	path = gsdata
 	url = https://codeberg.org/retostauffer/gsdata
+[submodule "msdata"]
+	path = msdata
+	url = http://codeberg.org/retostauffer/msdata
 [submodule "swissgeo.core"]
 	path = swissgeo.core
 	url = http://codeberg.org/retostauffer/swissgeo.core
